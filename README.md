@@ -26,3 +26,5 @@ asd
 
 
 *I am Italic*
+
+~~strike **bold**~~
